@@ -40,4 +40,5 @@
 ---
 
 ## ⚡ Current Mood & Vibe
-<!-- এখানে তোর কম্পিউটারের GIF ফাইলটা জাস্ট মাউস দিয়ে টেনে এনে ছেড়ে (Drop) দে ভাই! তাহলেই কোড বসে যাবে -->![Uploading gif.gif…]()
+<img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/60208792-c50a-48cf-9fb3-ee09e3e8e891" />
+
