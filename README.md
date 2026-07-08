@@ -13,6 +13,15 @@
 
 ---
 
+## 🏆 My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=s07114587-ops&theme=onedark&column=3&margin-w=15" alt="shubhomoy-trophies" />
+  </a>
+</p>
+
+---
+
 ## 🧠 About Me
 > *"Building AI web apps and standalone games using my brain + AI power!"* 🎮⚡
 
