@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello World! I'm Shubhomoy (sgdev) 🚀
 
-<!--
-**s07114587-ops/s07114587-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android" alt="Age">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Main--Focus-AI%20%26%20Games-success?style=for-the-badge" alt="Focus">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+> *"Building AI web apps and standalone games using my brain + AI power!"* 🎮⚡
+
+* 💻 **What I Do:** 12-year-old Full-Stack Developer creating modern software and games.
+* 🛠️ **Tech Stack:** Love coding in **Python** (way cleaner!) and designing with **HTML & Inline CSS**.
+* 🌐 **Deployment:** Keeping my web apps alive on **Vercel** and desktop software on **SourceForge**.
+
+---
+
+## 🚀 Featured Projects (Live on SourceForge)
+* 🤖 **S AI (sai-for-windows):** A privacy-first, secure desktop AI assistant that doesn't store away user data!
+* 🎯 **S_Mario:** A modern retro classic PC game featuring multiple heroes and custom stats.
+
+---
+
+## 📬 Connect With Me
+* 📧 **Email:** [sgdev@netc.fr](mailto:sgdev@netc.fr) — *Feel free to reach out for collabs or game talk!*
+
+---
+
+## 🛠️ My Coding Toolkit
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black" alt="Notepad++">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+---
+
+## ⚡ Current Mood & Vibe
+<!-- এখানে তোর কম্পিউটারের GIF ফাইলটা জাস্ট মাউস দিয়ে টেনে এনে ছেড়ে (Drop) দে ভাই! তাহলেই কোড বসে যাবে -->![Uploading gif.gif…]()
