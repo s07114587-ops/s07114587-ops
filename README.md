@@ -1,5 +1,9 @@
 # 👋 Hello World! I'm Shubhomoy (sgdev) 🚀
 
+## ⚡ Current Mood & Vibe
+<p align="center">
+<img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/60208792-c50a-48cf-9fb3-ee09e3e8e891" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android" alt="Age">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role">
@@ -39,7 +43,5 @@
 
 ---
 
-## ⚡ Current Mood & Vibe
-<p align="center">
-<img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/60208792-c50a-48cf-9fb3-ee09e3e8e891" />
+
 
