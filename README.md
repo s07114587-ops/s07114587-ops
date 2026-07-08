@@ -40,5 +40,6 @@
 ---
 
 ## ⚡ Current Mood & Vibe
+<p align="center">
 <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/60208792-c50a-48cf-9fb3-ee09e3e8e891" />
 
