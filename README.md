@@ -13,14 +13,6 @@
 
 ---
 
-## 📊 My GitHub Stats & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s07114587-ops&show_icons=true&theme=onedark&locale=en" alt="shubhomoy-stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s07114587-ops&layout=compact&langs_count=7&theme=onedark" alt="shubhomoy-langs" height="150" />
-</p>
-
----
-
 ## 🧠 About Me
 > *"Building AI web apps and standalone games using my brain + AI power!"* 🎮⚡
 
@@ -31,8 +23,22 @@
 ---
 
 ## 🚀 Featured Projects (Live on SourceForge)
-* 🤖 **[S AI (sai-for-windows)](https://sourceforge.net/projects/sai):** A privacy-first, secure desktop AI assistant that doesn't store away user data!
-* 🎯 **[S_Mario](https://sourceforge.net/projects/s-mario/):** A modern retro classic PC game featuring multiple heroes and custom stats.
+
+### 🤖 S AI (sai-for-windows)
+A privacy-first, secure desktop AI assistant that doesn't store away user data!
+<p align="left">
+  <a href="https://sourceforge.net/projects/sai">
+    <img src="https://img.shields.io/sourceforge/dt/sai?color=green&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-AI-Downloads" />
+  </a>
+</p>
+
+### 🎯 S_Mario
+A modern retro classic PC game featuring multiple heroes and custom stats.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-mario/">
+    <img src="https://img.shields.io/sourceforge/dt/s-mario?color=red&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-Mario-Downloads" />
+  </a>
+</p>
 
 ---
 
