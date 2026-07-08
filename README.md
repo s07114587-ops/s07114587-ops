@@ -2,7 +2,8 @@
 
 ## ⚡ Current Mood & Vibe
 <p align="center">
-<img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/60208792-c50a-48cf-9fb3-ee09e3e8e891" />
+  <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/60208792-c50a-48cf-9fb3-ee09e3e8e891" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android" alt="Age">
@@ -22,8 +23,8 @@
 ---
 
 ## 🚀 Featured Projects (Live on SourceForge)
-* 🤖 **S AI (sai-for-windows):** A privacy-first, secure desktop AI assistant that doesn't store away user data!
-* 🎯 **S_Mario:** A modern retro classic PC game featuring multiple heroes and custom stats.
+* 🤖 **[S AI (sai-for-windows)](https://sourceforge.net/projects/sai):** A privacy-first, secure desktop AI assistant that doesn't store away user data!
+* 🎯 **[S_Mario](https://sourceforge.net/projects/s-mario/):** A modern retro classic PC game featuring multiple heroes and custom stats.
 
 ---
 
@@ -42,6 +43,3 @@
 </p>
 
 ---
-
-
-
