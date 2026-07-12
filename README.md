@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=darkorange&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=greenyellow" alt="Header" />
+</p>
+
+<p align="center">
+  <b>Proudly from India 🇮🇳</b>
 </p>
 
 # 👋 Hello World! I'm Shubhomoy (sgdev) 🚀
@@ -34,14 +38,18 @@
       <h3>💻 Tech Stack</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"> <br>
       <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black" alt="Notepad++"> <br>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
     </td>
     <td valign="top" width="50%">
       <h3>📬 Connect With Me</h3>
+      <a href="https://shubhomoy.dnc.su/"><img src="https://img.shields.io/badge/Website-shubhomoy.dnc.su-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a> <br>
       <a href="mailto:sgdev@netc.fr"><img src="https://img.shields.io/badge/Email-sgdev%40netc.fr-D44638?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <br>
-      <a href="https://github.com/s07114587-ops"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+      <a href="https://dev.to/sgdev_sg_dev"><img src="https://img.shields.io/badge/Dev.to-sgdev__sg__dev-0A0A0A?style=flat-square&logo=devto&logoColor=white" alt="Dev.to"></a> <br>
+      <a href="https://www.behance.net/sgdev1"><img src="https://img.shields.io/badge/Behance-sgdev1-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a> <br>
+      <a href="https://www.deviantart.com/sgdev111"><img src="https://img.shields.io/badge/DeviantArt-sgdev111-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="DeviantArt"></a> <br>
+      <a href="https://www.reddit.com/user/sgdev111"><img src="https://img.shields.io/badge/Reddit-u%2Fsgdev111-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
     </td>
   </tr>
 </table>
