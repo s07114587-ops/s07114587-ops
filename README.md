@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Proudly from India 🇮🇳</b>
+  <b>Proudly 🇮🇳 from India 🇮🇳</b>
 </p>
 
 # 👋 Hello World! I'm Shubhomoy (sgdev) 🚀
