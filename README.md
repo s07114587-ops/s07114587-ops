@@ -1,18 +1,14 @@
 # 👋 Hello World! I'm Shubhomoy (sgdev) 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=12-Year-Old+Developer;Full-Stack+Engineer;AI+%26+Game+Creator;Building+S+OS+in+Future...⚡" alt="Typing SVG" />
-</p>
-
 ## ⚡ Current Mood & Vibe
 <p align="center">
   <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/60208792-c50a-48cf-9fb3-ee09e3e8e891" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/s07114587-ops"><img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Age"></a>
-  <a href="https://github.com/s07114587-ops"><img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role"></a>
-  <a href="https://github.com/s07114587-ops"><img src="https://img.shields.io/badge/Main--Focus-AI%20%26%20Games-success?style=for-the-badge" alt="Focus"></a>
+  <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Age">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Main--Focus-AI%20%26%20Games-success?style=for-the-badge" alt="Focus">
 </p>
 
 ---
@@ -30,10 +26,6 @@
 ## 📊 My GitHub Aura & Contribution
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s07114587-ops&theme=tokyonight" alt="Shubhomoy's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s07114587-ops&show_icons=true&theme=tokyonight&count_private=true" alt="Shubhomoy's GitHub Stats" />
 </p>
 
 ---
@@ -73,6 +65,4 @@ A modern retro classic PC game featuring multiple heroes and custom stats.
 ## 📬 Connect With Me
 * 📧 **Email:** [sgdev@netc.fr](mailto:sgdev@netc.fr) — *Feel free to reach out for collabs or game talk!*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep+Coding+..+Keep+Rocking+🚀&fontSize=20" alt="Footer" />
-</p>
+---
