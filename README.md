@@ -65,4 +65,6 @@ A modern retro classic PC game featuring multiple heroes and custom stats.
 ## 📬 Connect With Me
 * 📧 **Email:** [sgdev@netc.fr](mailto:sgdev@netc.fr) — *Feel free to reach out for collabs or game talk!*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep+Coding+..+Keep+Rocking+🚀&fontSize=20" alt="Footer" />
+</p>
