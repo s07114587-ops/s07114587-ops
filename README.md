@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=darkorange&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=greenyellow" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF8C00&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=ADFF2F" alt="Header" />
 </p>
 
 <p align="center">
