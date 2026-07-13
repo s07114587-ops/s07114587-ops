@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=ADFF2F&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code..+one+script+at+a+time!;12-Year-Old+Full-Stack+Developer+From+India+🇮🇳;Building+S+OS+--+The+Future+Open+Source+OS!+💻" alt="Typing introduction" />
+</p>
+
+<p align="center">
   <b>Proudly 🇮🇳 from India 🇮🇳</b>
 </p>
 
@@ -21,13 +25,29 @@
 
 ---
 
-## 🧠 About Me
+## 📌 About Me
 > *"Building AI web apps and standalone games using my brain + AI power!"* 🎮⚡
 
 * 💻 **What I Do:** 12-year-old Full-Stack Developer creating modern software, smart web apps, and retro games.
 * 🛠️ **Tech Stack:** Love coding in **Python** 🐍 (way cleaner!) and designing UI with **HTML5 & Inline CSS3** 🎨.
 * 🌐 **Deployment:** Keeping my web apps alive on **Vercel** ⚡ and desktop software on **SourceForge** 📦.
 * 🚀 **Future Vision:** Future creator of **S OS** — world's fastest, free, and open-source operating system under GNU GPL v3! 💻👑
+
+---
+
+## 📊 My GitHub Stats, Trophies & Aura
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s07114587-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shubhomoy's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s07114587-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubhomoy's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=s07114587-ops&theme=tokyonight&hide_border=true" alt="Shubhomoy's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s07114587-ops&theme=tokyonight" alt="Shubhomoy's Activity Graph" />
+</p>
 
 ---
 
@@ -56,13 +76,6 @@
 
 ---
 
-## 📊 My GitHub Aura & Contribution
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s07114587-ops&theme=tokyonight" alt="Shubhomoy's Activity Graph" />
-</p>
-
----
-
 ## 🚀 Featured Projects (Live on SourceForge)
 
 ### 🤖 S AI (`sai-for-windows`)
@@ -82,6 +95,10 @@ A modern retro classic PC game featuring multiple heroes and custom stats.
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep+Coding+..+Keep+Rocking+🚀&fontSize=20" alt="Footer" />
