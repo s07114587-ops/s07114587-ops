@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FF8C00&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=ADFF2F" alt="Header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=ADFF2F&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code..+one+script+at+a+time!;12-Year-Old+Full-Stack+Developer+From+India+🇮🇳;Building+S+OS+--+The+Future+Open+Source+OS!+💻" alt="Typing introduction" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Top Line" width="100%" />
+</div>
 
 <p align="center">
   <b>Proudly 🇮🇳 from India 🇮🇳</b>
@@ -87,9 +87,9 @@ A modern retro classic PC game featuring multiple heroes and custom stats.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="RGB Line" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep+Coding+..+Keep+Rocking+🚀&fontSize=20" alt="Footer" />
