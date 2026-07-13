@@ -37,12 +37,12 @@
 
 ## 📊 My GitHub Stats, Trophies & Aura
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s07114587-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shubhomoy's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=s07114587-ops&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Shubhomoy's GitHub Trophies" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s07114587-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubhomoy's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=s07114587-ops&theme=tokyonight&hide_border=true" alt="Shubhomoy's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s07114587-ops&theme=tokyonight&hide_border=true" alt="Shubhomoy's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ A modern retro classic PC game featuring multiple heroes and custom stats.
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://github.com/user-attachments/assets/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f" alt="Bottom Line" width="100%" />
 </div>
 
 <p align="center">
