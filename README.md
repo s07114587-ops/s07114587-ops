@@ -19,8 +19,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Age">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Main--Focus-AI%20%26%20Games-success?style=for-the-badge" alt="Focus">
+  <a href="https://shubhomoy.dnc.su/"><img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge" alt="Role"></a>
+  <a href="#-featured-projects-live-on-sourceforge"><img src="https://img.shields.io/badge/Main--Focus-AI%20%26%20Games-success?style=for-the-badge" alt="Focus"></a>
 </p>
 
 ---
@@ -60,11 +60,18 @@
       <a href="https://dev.to/sgdev_sg_dev"><img src="https://img.shields.io/badge/Dev.to-sgdev__sg__dev-0A0A0A?style=flat-square&logo=devto&logoColor=white" alt="Dev.to"></a> <br>
       <a href="https://www.behance.net/sgdev1"><img src="https://img.shields.io/badge/Behance-sgdev1-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a> <br>
       <a href="https://www.deviantart.com/sgdev111"><img src="https://img.shields.io/badge/DeviantArt-sgdev111-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="DeviantArt"></a> <br>
-      <a href="https://www.reddit.com/user/sgdev111"><img src="https://img.shields.io/badge/Reddit-u%2Fsgdev111-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a> <br>
-      <a href="https://whatsapp.com/channel/0029Vb8g3tvGOj9uEIXyhw0b"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"></a>
+      <a href="https://www.reddit.com/user/sgdev111"><img src="https://img.shields.io/badge/Reddit-u%2Fsgdev111-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vb8g3tvGOj9uEIXyhw0b">
+    <img src="https://img.shields.io/badge/📢%20JOIN%20MY%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" alt="Join my WhatsApp Channel" height="45">
+  </a>
+</p>
 
 ---
 
