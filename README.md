@@ -19,8 +19,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-12--years--old-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Age">
-  [![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge)](https://shubhomoy.dnc.su/)
-  [![Focus](https://img.shields.io/badge/Main--Focus-AI%20%26%20Games-success?style=for-the-badge)](#-featured-projects-live-on-sourceforge)
+  <a href="https://shubhomoy.dnc.su/"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=for-the-badge" alt="Role"></a>
+  <a href="#-featured-projects-live-on-sourceforge"><img src="https://img.shields.io/badge/Main%20Focus-AI%20and%20Games-success?style=for-the-badge" alt="Focus"></a>
 </p>
 
 ---
