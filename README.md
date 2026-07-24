@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FF8C00&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=ADFF2F" alt="Header" />
 </p>
 
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vb8g3tvGOj9uEIXyhw0b">
+    <img src="https://img.shields.io/badge/📢%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" alt="Join my WhatsApp Channel" height="45">
+  </a>
+  <a href="https://www.youtube.com/@sgdev111">
+    <img src="https://img.shields.io/badge/▶️%20YOUTUBE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="Subscribe on YouTube" height="45">
+  </a>
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Top Line" width="100%" />
 </div>
@@ -70,6 +79,9 @@
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb8g3tvGOj9uEIXyhw0b">
     <img src="https://img.shields.io/badge/📢%20JOIN%20MY%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" alt="Join my WhatsApp Channel" height="45">
+  </a>
+  <a href="https://www.youtube.com/@sgdev111">
+    <img src="https://img.shields.io/badge/▶️%20SUBSCRIBE%20ON%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="Subscribe on YouTube" height="45">
   </a>
 </p>
 
