@@ -129,6 +129,14 @@ A handy utility for indexing and organizing files/folders with ease.
   </a>
 </p>
 
+### 📄 S PDF Editor
+A simple, lightweight desktop tool for editing and managing PDF files.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-pdf-editor/">
+    <img src="https://img.shields.io/sourceforge/dt/s-pdf-editor?color=orange&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-PDF-Editor-Downloads" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
