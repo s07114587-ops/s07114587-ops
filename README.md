@@ -113,6 +113,22 @@ A custom front-end development studio built to stream-line UI creation.
   </a>
 </p>
 
+### 📝 S Markdown Viewer
+A lightweight, fast markdown viewer for quickly previewing `.md` files.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-markdown-viewer/">
+    <img src="https://img.shields.io/sourceforge/dt/s-markdown-viewer?color=yellow&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-Markdown-Viewer-Downloads" />
+  </a>
+</p>
+
+### 🔎 S Indexing Tool
+A handy utility for indexing and organizing files/folders with ease.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-indexing-tool/">
+    <img src="https://img.shields.io/sourceforge/dt/s-indexing-tool?color=purple&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-Indexing-Tool-Downloads" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
