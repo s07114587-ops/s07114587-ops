@@ -141,7 +141,7 @@ A simple, lightweight desktop tool for editing and managing PDF files.
 A classic minesweeper game reimagined with a modern twist and smooth gameplay.
 <p align="left">
   <a href="https://sourceforge.net/projects/s-minesweepe/">
-    <img src="https://img.shields.io/sourceforge/dt/s-minesweepe?color=teal&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-Minesweeper-Downloads" />
+    <img src="https://img.shields.io/badge/Downloads-New-teal?style=for-the-badge&logo=sourceforge" alt="S-Minesweeper-Downloads" />
   </a>
 </p>
 
