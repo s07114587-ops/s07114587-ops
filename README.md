@@ -59,6 +59,8 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3"> <br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <br>
+      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"> <br>
       <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black" alt="Notepad++"> <br>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
     </td>
@@ -142,6 +144,22 @@ A classic minesweeper game reimagined with a modern twist and smooth gameplay.
 <p align="left">
   <a href="https://sourceforge.net/projects/s-minesweepe/">
     <img src="https://img.shields.io/badge/Downloads-New-teal?style=for-the-badge&logo=sourceforge" alt="S-Minesweeper-Downloads" />
+  </a>
+</p>
+
+### 🖱️ S AutoClicker
+A lightweight, customizable auto-clicker tool built for speed and precision.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-autoclicker/">
+    <img src="https://img.shields.io/sourceforge/dt/s-autoclicker?color=cyan&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-AutoClicker-Downloads" />
+  </a>
+</p>
+
+### ⌨️ S Keystrokes
+A handy utility to visualize and track keystrokes in real time.
+<p align="left">
+  <a href="https://sourceforge.net/projects/s-keystrokes/">
+    <img src="https://img.shields.io/sourceforge/dt/s-keystrokes?color=pink&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-Keystrokes-Downloads" />
   </a>
 </p>
 
