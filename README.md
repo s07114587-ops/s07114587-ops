@@ -6,6 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="vvxlx profile views" />
 </p>
 <p align="center">
+
+[PROFILE VIEWS: 234,321](https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge)
+
+</p>
+<p align="center">
   <a href="https://whatsapp.com/channel/0029Vb8g3tvGOj9uEIXyhw0b">
     <img src="https://img.shields.io/badge/📢%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" alt="Join my WhatsApp Channel" height="45">
   </a>
