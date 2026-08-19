@@ -1,17 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FF8C00&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=ADFF2F" alt="Header" />
 </p>
-<br>
+
 <p align="center">
-<p align="centerim
+  <img src="https://komarev.com/ghpvc/?username=s07114587-ops&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="sgdev profile views" />
 </p>
 
-</p>
-<p align="center">
-
-[PROFILE VIEWS: 234,321](https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge)
-
-</p>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb8g3tvGOj9uEIXyhw0b">
     <img src="https://img.shields.io/badge/📢%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" alt="Join my WhatsApp Channel" height="45">
