@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FF8C00&height=180&section=header&text=Shubhomoy%20(sgdev)%20🚀&fontSize=40&animation=twinkling&fontColor=ADFF2F" alt="Header" />
 </p>
 <br>
-<p align="center>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="vvxlx profile views" />
 </p>
 <p align="center">
@@ -155,6 +155,9 @@ A lightweight, customizable auto-clicker tool built for speed and precision.
 <p align="left">
   <a href="https://sourceforge.net/projects/s-autoclicker/">
     <img src="https://img.shields.io/sourceforge/dt/s-autoclicker?color=cyan&label=Downloads&style=for-the-badge&logo=sourceforge" alt="S-AutoClicker-Downloads" />
+  </a>
+  <a href="https://sourceforge.net/projects/s-autoclicker/files/latest/download">
+    <img src="https://a.fsdn.com/con/app/sf-download-button" alt="Download S-AutoClicker" />
   </a>
 </p>
 
