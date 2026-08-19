@@ -3,7 +3,10 @@
 </p>
 <br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vvxlx&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="vvxlx profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s07114587-ops&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views" />
+</p>
+
 </p>
 <p align="center">
 
