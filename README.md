@@ -94,6 +94,12 @@
 
 ## 🚀 Featured Projects (Live on SourceForge)
 
+<p align="center">
+  <a href="https://sourceforge.net/u/sgdev/profile/">
+    <img src="https://img.shields.io/badge/⭐%20SourceForge-View%20My%20Profile-FF6600?style=for-the-badge&logo=sourceforge&logoColor=white" alt="SourceForge Profile" />
+  </a>
+</p>
+
 ### 🤖 S AI (`sai-for-windows`)
 A privacy-first, secure desktop AI assistant that doesn't store away user data!
 <p align="left">
@@ -151,14 +157,6 @@ A classic minesweeper game reimagined with a modern twist and smooth gameplay.
 </p>
 
 ### 🖱️ S AutoClicker
-<!-- Begin  Tag -->
-<div class="sf-root" data-id="4119257" data-badge="oss-users-love-us-white" style="width:125px">
-    <a href="https://sourceforge.net/projects/s-autoclicker/" target="_blank">S-AutoClicker</a>
-</div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=4119257';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
-<!-- End  Tag -->
-
 A lightweight, customizable auto-clicker tool built for speed and precision.
 <p align="left">
   <a href="https://sourceforge.net/projects/s-autoclicker/">
