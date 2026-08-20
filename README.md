@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s07114587-ops&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="sgdev profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sgdev-official&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="sgdev profile views" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 ## 📊 My GitHub Aura & Contribution
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s07114587-ops&theme=tokyonight" alt="Shubhomoy's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgdev-official&theme=tokyonight" alt="Shubhomoy's Activity Graph" />
 </p>
 
 ---
